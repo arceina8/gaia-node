@@ -16,4 +16,6 @@
   "author": "",
   "license": "ISC",
   "description": ""
+}"scripts": {
+  "build": "echo 'No build step needed'"
 }
